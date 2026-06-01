@@ -1,0 +1,24 @@
+# ==========================================================
+# Airline Route Profitability - Data Engineering Project
+# Python Environment Dependencies
+# ==========================================================
+
+# Core Data Processing
+pandas==2.3.3
+numpy>=1.24
+
+# Database / ETL
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+
+# Geospatial Calculations
+geopy>=2.4
+
+# Data Visualization (Exploratory Analysis)
+matplotlib>=3.7
+seaborn>=0.13
+
+# ==========================================================
+# Notes:
+# Install with: pip install -r requirements.txt
+# ==========================================================
