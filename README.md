@@ -8,7 +8,7 @@ The dataset contains more than **7,500 flight records** across international rou
 
 The pipeline is designed to simulate a real-world airline data platform, transforming raw operational data into a **clean, validated, and analytics-ready fact table**.
 
-A significant portion of the dataset reflects operations connected to **Dubai International Airport (DXB)**, a major global aviation hub.
+The dataset reflects operations connected to **Dubai International Airport (DXB)**, a major global aviation hub.
 
 ---
 
